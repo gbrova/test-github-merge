@@ -1,3 +1,5 @@
 initial commit
 master commit 1
 master commit 2 that might cause a conflict
+feature commit 1
+
